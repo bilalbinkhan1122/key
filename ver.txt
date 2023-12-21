@@ -1,2 +1,2 @@
-scrm"free"
+scrm"paid"
 updatesrc"2.3.5"
